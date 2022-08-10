@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="2JEE">
+    <output-path>$PROJECT_DIR$/out/artifacts/2JEE</output-path>
+    <root id="root">
+      <element id="archive" name="2JEE.jar">
+        <element id="module-output" name="2JEE" />
+        <element id="library" level="project" name="eclipselink" />
+        <element id="library" level="project" name="javaee-endorsed-api-6.0" />
+        <element id="library" level="project" name="lib" />
+        <element id="library" level="project" name="org-netbeans-modules-java-j2seproject-copylibstask" />
+        <element id="library" level="project" name="org.eclipse.persistence.jpa.modelgen_2.5.2.v20140319-9ad6abd" />
+      </element>
+    </root>
+  </artifact>
+</component>

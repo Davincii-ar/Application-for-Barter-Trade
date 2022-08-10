@@ -1,0 +1,20 @@
+.stats {
+    float: right;
+}
+
+.obj-image {
+    max-width: 100%;
+}
+
+.search-btn {
+    //margin: 3px 0px 0px 0px;
+}
+
+.submit-btn {
+    width: 100%;
+}
+
+.form-div {
+    width: 30%;
+    margin: 0 auto;
+}

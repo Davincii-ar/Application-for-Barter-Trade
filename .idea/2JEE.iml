@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org-netbeans-modules-java-j2seproject-copylibstask" level="project" />
+    <orderEntry type="library" name="javaee-endorsed-api-6.0" level="project" />
+    <orderEntry type="library" name="eclipselink" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="org.eclipse.persistence.jpa.modelgen_2.5.2.v20140319-9ad6abd" level="project" />
+  </component>
+</module>
